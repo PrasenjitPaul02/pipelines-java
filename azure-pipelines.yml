@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: MyPool
+pool: windows-latest
 
 steps:
 - task: Maven@3
